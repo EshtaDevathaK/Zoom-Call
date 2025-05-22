@@ -9,6 +9,9 @@
     "start": "node src/app.js",
     "prod": "pm2 src/app.js"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "author": "apnacollege",
   "license": "ISC",
   "dependencies": {
